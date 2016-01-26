@@ -7,5 +7,6 @@ function setup(){
 function draw(){
   background("cadetblue");
 
-  ellipse(windowWidth/2,windowHeight/2,100,100);
+  ellipse(windowWidth/2,windowHeight/2,100,100
+    
 }
